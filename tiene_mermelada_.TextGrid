@@ -1,0 +1,46 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 1.0949206349206348 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Syllables" 
+        xmin = 0 
+        xmax = 1.0949206349206348 
+        intervals: size = 8 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.1701591649935251 
+            text = "" 
+        intervals [2]:
+            xmin = 0.1701591649935251 
+            xmax = 0.2669030502414206 
+            text = "Tie" 
+        intervals [3]:
+            xmin = 0.2669030502414206 
+            xmax = 0.35182268284790663 
+            text = "ne" 
+        intervals [4]:
+            xmin = 0.35182268284790663 
+            xmax = 0.4904889183698901 
+            text = "mer" 
+        intervals [5]:
+            xmin = 0.4904889183698901 
+            xmax = 0.6055066486090548 
+            text = "me" 
+        intervals [6]:
+            xmin = 0.6055066486090548 
+            xmax = 0.7635216611806174 
+            text = "la" 
+        intervals [7]:
+            xmin = 0.7635216611806174 
+            xmax = 0.9613091599096482 
+            text = "da" 
+        intervals [8]:
+            xmin = 0.9613091599096482 
+            xmax = 1.0949206349206348 
+            text = "" 
